@@ -6,7 +6,6 @@
 #include <QDebug>
 #include <QRandomGenerator64>
 
-// interface using signals and slots
 class IGenAlg : public QObject
 {
     Q_OBJECT
